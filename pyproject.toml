@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "bursa-bilisim-search"
+version = "0.1.0"
+description = ""
+authors = ["Furkan Melih Ercan <99879453+fmelihh@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.110.0"
+uvicorn = "^0.29.0"
+pysolr = "^3.9.0"
+docker = "^7.0.0"
+python-multipart = "^0.0.9"
+pandas = "^2.2.1"
+loguru = "^0.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,5 @@
+
+±python:S1515ν"Add a parameter to function "process_fn" and use variable "results" as its default value;The value of "results" might change at the next loop iteration.(τ½²J
+vpython:S117›"^Rename this local variable "BodyFieldInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(πΎΎ
+}python:S117”"eRename this local variable "BodyFieldInfo_kwargs" to match the regular expression ^[_a-z][a-z0-9_]*$.(Πª
+wpython:S117"ZRename this local variable "BodyModel" to match the regular expression ^[_a-z][a-z0-9_]*$.(θΆμόÿÿÿÿ
